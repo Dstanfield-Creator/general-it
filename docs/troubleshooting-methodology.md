@@ -122,7 +122,7 @@ Hypothesis: a stale hosts-file entry from an earlier migration sends this laptop
 
 ## Related
 
-- [DNS, DHCP and connectivity](../troubleshooting/dns-dhcp-and-connectivity.md)
+- [DNS, DHCP and connectivity](https://github.com/Dstanfield-Creator/network/blob/main/troubleshooting/dns-dhcp-and-connectivity.md)
 - [Windows and Linux command equivalents](../reference/windows-linux-command-equivalents.md)
 - [Change management for small teams](./change-management-for-small-teams.md)
 
